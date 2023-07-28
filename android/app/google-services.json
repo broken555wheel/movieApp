@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "47092569691",
+    "project_id": "movie-app-fe597",
+    "storage_bucket": "movie-app-fe597.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:47092569691:android:d63478508ba6625631917e",
+        "android_client_info": {
+          "package_name": "com.example.mile_two"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "47092569691-tarlkqcumckr3kbvspn276oao5bqi8gc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6sUhVOn7eOWWsO69P9QTyqdS7TeFulY0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "47092569691-tarlkqcumckr3kbvspn276oao5bqi8gc.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "47092569691-9hvnkmpvu3p63bnqsmcqb3fgbht98j93.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.mileTwo"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
